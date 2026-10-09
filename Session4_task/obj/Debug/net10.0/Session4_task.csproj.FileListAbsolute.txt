@@ -1,0 +1,15 @@
+C:\Users\ssalem\eraaSoft538\Session4_task\bin\Debug\net10.0\Session4_task.exe
+C:\Users\ssalem\eraaSoft538\Session4_task\bin\Debug\net10.0\Session4_task.deps.json
+C:\Users\ssalem\eraaSoft538\Session4_task\bin\Debug\net10.0\Session4_task.runtimeconfig.json
+C:\Users\ssalem\eraaSoft538\Session4_task\bin\Debug\net10.0\Session4_task.dll
+C:\Users\ssalem\eraaSoft538\Session4_task\bin\Debug\net10.0\Session4_task.pdb
+C:\Users\ssalem\eraaSoft538\Session4_task\obj\Debug\net10.0\Session4_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssalem\eraaSoft538\Session4_task\obj\Debug\net10.0\Session4_task.AssemblyInfoInputs.cache
+C:\Users\ssalem\eraaSoft538\Session4_task\obj\Debug\net10.0\Session4_task.AssemblyInfo.cs
+C:\Users\ssalem\eraaSoft538\Session4_task\obj\Debug\net10.0\Session4_task.csproj.CoreCompileInputs.cache
+C:\Users\ssalem\eraaSoft538\Session4_task\obj\Debug\net10.0\Session4_task.dll
+C:\Users\ssalem\eraaSoft538\Session4_task\obj\Debug\net10.0\refint\Session4_task.dll
+C:\Users\ssalem\eraaSoft538\Session4_task\obj\Debug\net10.0\Session4_task.pdb
+C:\Users\ssalem\eraaSoft538\Session4_task\obj\Debug\net10.0\Session4_task.genruntimeconfig.cache
+C:\Users\ssalem\eraaSoft538\Session4_task\obj\Debug\net10.0\ref\Session4_task.dll
+C:\Users\ssalem\eraaSoft538\Session4_task\obj\Debug\net10.0\Session4.CEA5B58F.Up2Date
